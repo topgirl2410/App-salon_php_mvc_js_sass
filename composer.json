@@ -1,0 +1,19 @@
+{
+    "name": "maria/app-salon_php_mvc_js_sass",
+    "description": "Proyecto PHP 8, MVC, JS, SQL, SASS, Gulp...",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "topgirl2410",
+            "email": "maria.topgirl82@gmail.com"
+        }
+    ],
+    "require": {}
+}
